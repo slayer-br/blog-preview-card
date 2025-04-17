@@ -4,17 +4,18 @@ Esta é uma solução para o <a href="https://www.frontendmentor.io/challenges/b
 
 ## 🗂 Tabela de conteúdos
 
-- [Visão geral](#visão-geral)
+- [Visão geral](#-visão-geral)
   - [O desafio](#o-desafio)
-  - [Captura de tela](#captura-de-tela)
-  - [Links](#links)
-- [Meu processo](#meu-processo)
-  - [Construído com](#construído-com)
+  - [Captura de tela](#-captura-de-tela)
+  - [Links](#-links)
+- [Meu processo](#-meu-processo)
+  - [Construído com](#-construído-com)
   - [O que aprendi](#o-que-aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-  - [Recursos úteis](#recursos-úteis)
-- [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+  - [Desenvolvimento contínuo](#-desenvolvimento-contínuo)
+  - [Recursos úteis](#-recursos-úteis)
+- [Autor](#-autor)
+- [Licença](#-licença)
+- [Agradecimentos](#-agradecimentos)
 
 ## 📌 Visão geral
 
@@ -80,6 +81,10 @@ Quero continuar aprofundando minha experiência com CSS Grid, animações mais s
 - GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
 - Frontend Mentor - <a href="https://www.frontendmentor.io/profile/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
 
+## 🧾 Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
 ## 🙌 Agradecimentos
 
 Desenvolvido com base no desafio do Frontend Mentor. Agradecimentos à comunidade que compartilha soluções incríveis — elas serviram de referência e inspiração para meu aprendizado.
+
