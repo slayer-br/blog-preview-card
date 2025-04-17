@@ -1,6 +1,6 @@
 # Frontend Mentor - Solução para o cartão de prévia de blog
 
-Esta é uma solução para o [desafio do cartão de prévia de blog no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de desenvolvimento ao criar projetos realistas.
+Esta é uma solução para o <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="_blank" rel="noopener noreferrer">desafio do cartão de prévia de blog no Frontend Mentor</a>. Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de desenvolvimento ao criar projetos realistas.
 
 ## 🗂 Tabela de conteúdos
 
@@ -30,8 +30,8 @@ Os usuários devem ser capazes de:
 
 ### 🔗 Links
 
-- URL da solução: [https://github.com/slayer-br/blog-preview-card](https://github.com/slayer-br/blog-preview-card)
-- Site ao vivo: [https://slayer-br.github.io/blog-preview-card](https://slayer-br.github.io/blog-preview-card)
+- URL da solução: <a href="https://github.com/slayer-br/blog-preview-card" target="_blank" rel="noopener noreferrer">https://github.com/slayer-br/blog-preview-card</a>
+- Site ao vivo: <a href="https://slayer-br.github.io/blog-preview-card" target="_blank" rel="noopener noreferrer">https://slayer-br.github.io/blog-preview-card</a>
 
 ## 🚀 Meu processo
 
@@ -49,22 +49,20 @@ Os usuários devem ser capazes de:
 Durante este desafio, pratiquei a criação de layouts responsivos utilizando CSS puro, com foco no uso de variáveis CSS, Flexbox, e boas práticas semânticas no HTML. Também trabalhei microinterações com `hover` para tornar a experiência mais fluida e interessante.
 
 ```css
+.card {
+  transition: all ease 0.2s;
 
-  .card {
-    transition: all ease 0.2s;
+  &:hover {
+    box-shadow: 16px 16px 0px var(--gray-950);
 
-    &:hover {
-      box-shadow: 16px 16px 0px var(--gray-950);
-
-      .card-body {
-        .card-title {
-          color: var(--main-bg-color);
-          cursor: pointer;
-        }
+    .card-body {
+      .card-title {
+        color: var(--main-bg-color);
+        cursor: pointer;
       }
     }
   }
-
+}
 ```
 
 ### 🔄 Desenvolvimento contínuo
@@ -73,14 +71,14 @@ Quero continuar aprofundando minha experiência com CSS Grid, animações mais s
 
 ### 📚 Recursos úteis
 
-- [Guia CSS Flexbox – CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Guia Grid Layout – MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_grid_layout)
-- [Guia de fontes do Google Fonts](https://fonts.google.com/)
+- <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noopener noreferrer">Guia CSS Flexbox – CSS Tricks</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_grid_layout" target="_blank" rel="noopener noreferrer">Guia Grid Layout – MDN</a>
+- <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer">Guia de fontes do Google Fonts</a>
 
 ## 👨‍💻 Autor
 
-- Github - [@slayer-br](https://github.com/slayer-br)
-- Frontend Mentor - [@slayer-br](https://www.frontendmentor.io/profile/slayer-br)
+- GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
+- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
 
 ## 🙌 Agradecimentos
 
